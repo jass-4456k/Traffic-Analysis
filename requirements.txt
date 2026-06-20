@@ -6,3 +6,8 @@ joblib==1.4.2
 matplotlib==3.10.1
 seaborn==0.13.2
 xgboost==3.2.0
+
+steps to run:
+
+1. run train.py file 
+2. run app.py
